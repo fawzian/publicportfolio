@@ -16,6 +16,17 @@ VERSION:	Versoin Number
   font-display: swap;
 }
 
+.contactlink {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+
+}
+
+.contactlink:hover {
+  font-size: 3em;
+  font-weight: 800;
+}
+
 body {
   line-height: 1.2;
   font-family: "Roboto", sans-serif;
@@ -909,3 +920,7 @@ blockquote {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+#cont-link {
+  color: purple;
+}
